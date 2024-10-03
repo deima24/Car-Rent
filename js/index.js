@@ -12,4 +12,4 @@ document.querySelector(".close-btn").addEventListener("click", toggleMenu);
 document
     .querySelectorAll(".menu a")
     .forEach((link) => link.addEventListener("click", toggleMenu))
-    
+
